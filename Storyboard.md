@@ -42,7 +42,7 @@ To meet these criteria, you need to explore and find the data for administrative
 
 Identifying the precise type of data needed for the task is crucial before looking for and downloading geographic data. Finding geographic data is made easier by using Spatial Data Infrastructure. They enable quick and easy access to a variety of data from many sources, saving time and effort while looking for information. Additionally encouraging transparency, interoperability , innovation, and cost-effectiveness.
 
-In this OER module, our focus will be on Lower Saxony,we will search for SDIs that provide geographic data specific to Lower Saxony.
+In this OER module, our focus will be on Lower Saxony,So we will search for SDIs that provide geographic data specific to Lower Saxony.
 
 
 
