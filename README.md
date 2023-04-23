@@ -8,7 +8,7 @@ An Open Educational Resource (OER) on an SDI use case from the consumer perspect
 - Introduction
 - Scope
 - Workflows
-- Data Search and Download*
+- Data Search and Download
 - Data Prepration
 -Suitability Analysis
 - Self Assesment
