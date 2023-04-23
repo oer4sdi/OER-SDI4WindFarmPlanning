@@ -30,11 +30,13 @@ While Germany is one of the leaders in the development of wind energy with goal 
 
 ## *4. Workflows*
 A local authority in Lower Saxony has hired you to cooperate with a private investor to identify several potential sites in the state for enlarging and repowering existing wind farms with high-efficiency wind turbines. The selected site must meet several characteristics:
-•	Located in the state of Lower Saxony
-•	Within 4 km of existing wind farms containing turbines 
-•	Within at least 800 m of neighboring houses
-•	Does not intersect with any protected site
-To meet these criteria, you need to explore and find the data for administrative boundaries, existing wind farms, buildings, and protected sites. Next, you'll start querying these layers to narrow down locations with the characteristics you want. Finally, you'll combine these into a single layer on which you can conduct a multicriteria analysis to locate a few viable sites.
+
+-	Located in the state of Lower Saxony
+-	Within 4 km of existing wind farms containing turbines 
+-	Within at least 800 m of neighboring houses
+-   Does not intersect with any protected site
+  
+in order to meet these criteria, you need to explore and find the data for administrative boundaries, existing wind farms, buildings, and protected sites. Next, you'll start querying these layers to narrow down locations with the characteristics you want. Finally, you'll combine these into a single layer on which you can conduct a multicriteria analysis to locate a few viable sites.
 
 
 
@@ -44,7 +46,13 @@ Identifying the precise type of data needed for the task is crucial before looki
 
 In this OER module, our focus will be on Lower Saxony,So we will search for SDIs that provide geographic data specific to Lower Saxony.
 
+State Office for Geoinformation and State Surveying Lower Saxony is provide access to geoinformation data that is accurate, up-to-date, complete and compatible with other data from Lower Saxony, Germany and Europe.
 
+  1- Go to [Landesamt für Geoinformation und Landesvermessung Niedersachsen](https://opengeodata.lgln.niedersachsen.de/) and explore the available data
+  
+  ![alt text](https://i.imgur.com/GQKFNfe.png)
+
+2- Scroll down and explore the available data, 
 
 
 ## *6. Data Prepration*
