@@ -4,7 +4,7 @@
 
 Photo: Graphic Federal Government Foto: Getty Images/Westend61
 
-## *1. Course Overview*
+## *1. OER Overview*
 The Federal Government in Germany has set itself a target of doubling the amount of electricity generated from renewable sources by 2030. Wind power will play a major role in this. Expanding an existing wind farm is a cost-effective way to increase the energy production. This OER module is focused on harnessing the power of Spatial Data Infrasturture to support wind farm planning.
 
 
@@ -65,5 +65,3 @@ State Office for Geoinformation and State Surveying Lower Saxony is provide acce
 ##  Self Assesment
 In this OER module We will focus on wind farm expansion in Lower Saxony.Participants will learn how to leverage spatial data infrastructure. Upon completion of the tutorial, participants will be encouraged to apply the same steps they have learned to expand wind farms in North Rhine Westphalia(NRW).
 
-##  Requirements 
-- Basic GIS knowledge
