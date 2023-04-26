@@ -16,6 +16,7 @@ The further structure of this learning material is as follows:
 You will be able to work on a hands-on task and expand our data analysis by finding, downloading, integrating, and analyzing additional data and thereby refining the planning area. 
 4. **Summary and discussion** <br> We summarize the workflow of windfarm planning and discuss both the benefits and the issues we faced regarding the underlying Spatial Data Infrastructures. We present some questions that you can use to check if you have achieved the key learning objectives.
 Finally we recommend resources that you can use to deepen your understanding of SII-related topics.
+5. **References**
 
 This tutorial has been designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about geospatial data, QGIS and spatial data analysis. In this case you will need about 30 minutes to use this tutorial. 
 
@@ -32,4 +33,6 @@ The OER4SDI project has been recommended by the Digital University NRW and is fu
 
 
 ## *4. Summary and discussion*
+
+## *5. References*
 
