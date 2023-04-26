@@ -5,11 +5,11 @@
 
 Spatial Information Infrastructures (SIIs) such as INSPIRE, GDI-DE in Germany or GDI-NI in Lower Saxony support the availability and usability of spatial data across domains and organizations. They facilitate the development of applications that address various societal and environmental challenges, such as urban planning, disaster management, environmental monitoring, or natural resource management.
 
-In this tutorial we explore how SIIs contribute to wind farm planning. It is designed to help you understand:
+In this tutorial we explore how SIIs contribute to wind farm planning. You will learn:
 * why wind farm planning requires easy access to up-to-date, high-quality geospatial data and what kind of data is needed 
 * how SIIs facilitate the discoverability, accessibility, and usability of geospatial data that is needed for wind farm planning
 
-The further structure of this learning material is as follows: 
+The structure of this tutorial is as follows: 
 1. **Overview**
 2. **Introduction to SIIs and wind farm planning** <br> We give you some background information on SIIs and on wind farm planning in Germany and present the case of repowering and expanding a wind farm in Lorup, a small community in the district of Emsland in Lower Saxony.
 3. **The case of extending a wind farm in Lorup, Germany** <br> We demonstrate how to search for the data needed for wind farm planning in Lorup, how to access and integrate the data into the dataset for the project, and how to analyze the data using QGIS to identify the potential extension area for the wind farm.
