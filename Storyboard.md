@@ -58,7 +58,7 @@ State Office for Geoinformation and State Surveying Lower Saxony is provide acce
 ## *6. Data Prepration*
 
 
-## *7. Spatial Analysis*
+## *7. suitability Analysis*
 
 
 
