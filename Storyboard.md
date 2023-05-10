@@ -49,7 +49,7 @@ In this OER module, our focus will be on Lorup, a municipality in the Emsland di
 To begin with, we need to download the required data from the [Marktstammdatenregister](www.marktstammdatenregister.de), MaStR is a register of the electricity and gas market in Germany, providing detailed information on renewable energy installations. It can be accessed by authorities and market players in the energy sector, and the information is publicly available for analysis of the renewable energy market. MaStR data is helpful in identifying opportunities for expanding the wind energy market in Germany.
 1. Open your web browser and go to www.marktstammdatenregister.de, navigate to the "units" tab
 
-<img src="https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/MaStR_landingpage.png" width="1000">
+
 
 ![alt text](https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/MaStR_landingpage.png)
 
