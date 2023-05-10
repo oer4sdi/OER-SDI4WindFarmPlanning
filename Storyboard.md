@@ -48,19 +48,19 @@ In this OER module, our focus will be on Lorup, a municipality in the Emsland di
 
 To begin with, we need to download the required data from the [Marktstammdatenregister](www.marktstammdatenregister.de), MaStR is a register of the electricity and gas market in Germany, providing detailed information on renewable energy installations. It can be accessed by authorities and market players in the energy sector, and the information is publicly available for analysis of the renewable energy market. MaStR data is helpful in identifying opportunities for expanding the wind energy market in Germany.
 1. Open your web browser and go to www.marktstammdatenregister.de, navigate to the "units" tab
-- ![alt text]()
 
-2. In this we page, you can download data for all renewable energy plants in Germany, including wind energy plants. To download data for wind energy plants only, click on the "Filter" button and Choose Energy Eource is equivalent to "Wind" and Community is equivalent to "Lorup", before clicking apply filter choose Extended Unit Overview on the top right corner of the table then click "Apply Filter".
+<img src="https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/MaStR_landingpage.png" width="1000">
 
-- ![alt text]()
+![alt text](https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/MaStR_landingpage.png)
 
-3. After applying the filter, the website will display a table containing all the registered wind energy plants in Lorup.click on the "Export" button at the top of the table.
 
-4. In the export options, select the desired file format and then click "Exportieren" to start the download.
 
-![alt text]()
+1. In this we page, you can download data for all renewable energy plants in Germany, including wind energy plants. To download data for wind energy plants only, click on the "Filter" button and Choose Energy Eource is equivalent to "Wind" and Community is equivalent to "Lorup", before clicking apply filter choose Extended Unit Overview on the top right corner of the table then click "Apply Filter".
 
-5. Once the data is downloaded from MaStR as a CSV file, the next step is to import the table into QGIS in Data Prepration Section
+![alt text](https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/MaStR_filters_export.png)
+
+1. After applying the filter, the website will display a table containing all the registered wind energy plants in Lorup.click on the "Export" button at the top of the table,In the export options, select the desired file format and then click "Exportieren" to start the download.
+2. Once the data is downloaded from MaStR as a CSV file, the next step is to import the table into QGIS in Data Prepration Section
 
 
 
@@ -71,17 +71,18 @@ To begin with, we need to download the required data from the [Marktstammdatenre
 
 In addition to the MaStR website, [The State Office for Geoinformation and State Surveying Lower Saxony](https://opengeodata.lgln.niedersachsen.de/) offer Open Geo Data for Lower Saxony, which we can access for our wind energy expansion analysis. The data available on the website, such as administrative boundary and building data, can be downloaded to help us designate our area of interest and correspond to constraints related to the distance between living houses and wind turbines. 
 
+![alt text](https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/LGLN.PNG)
 
 
 1. Go to the [The State Office for Geoinformation and State Surveying Lower Saxony](https://opengeodata.lgln.niedersachsen.de/), and click on the "Product Overview" button located in the top right corner of the page.
-![alt text]()
+![alt text](https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/LGLN_data.PNG)
  
-2. Select the "ADMINISTRATIVE BOUNDARIES ATKIS" category from the list of available datasets, check the dataset details to know more information about coordinate reference system, Detailed product description, Format, license terms and conditions, and metadata [metadata](https://geoportal.geodaten.niedersachsen.de/harvest/srv/api/records/5c115053-be97-4072-9957-818673219aa5/formatters/xml)
+1. Select the "ADMINISTRATIVE BOUNDARIES ATKIS" category from the list of available datasets, check the dataset details to know more information about coordinate reference system, Detailed product description, Format, license terms and conditions, and metadata [metadata](https://geoportal.geodaten.niedersachsen.de/harvest/srv/api/records/5c115053-be97-4072-9957-818673219aa5/formatters/xml)
    
-![alt text]()
+![alt text](https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/LGLN_ATKIS.PNG)
  
 3. After checking meta data, got download tab and click on the "Download" button, Save the downloaded file to your computer or the desired location as we will need it later.
-![alt text]()
+
 
 
 
