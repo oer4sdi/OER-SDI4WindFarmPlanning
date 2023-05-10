@@ -81,7 +81,7 @@ In addition to the MaStR website, [The State Office for Geoinformation and State
    
 ![alt text](https://github.com/oer4sdi/OER-WindFarmExtension/blob/main/img/LGLN_ATKIS.PNG)
  
-3. After checking meta data, got download tab and click on the "Download" button, Save the downloaded file to your computer or the desired location as we will need it later.
+3. After checking meta data, go download tab and click on the "Download" button, Save the downloaded file to your computer or the desired location as we will need it later.
 
 
 
