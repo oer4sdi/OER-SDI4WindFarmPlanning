@@ -20,17 +20,16 @@
 
 **1.2 What is the difference between the geoportal and the metadata catalog of a Spatial Data Infrastructure?** 
 
-Answers:
-
   The GDI-NI geoportal is the web site that provides comprehensive information on the GDI-NI. The GDI-NI metadata catalog is a back-end component that supports storage and retrieval of metadata. The catalog can be accessed a) by humans via the geoportal’s user interface and b) by machines via its API (e.g. OGC CSW or OGC API records).  
 
 **1.3 What makes a metadata catalog a federated metadata catalog?**
 
-A federated system of metadata catalogs is characterized by the fact that they update each other according to certain rules and thus share metadata with each other. A catalog becomes a member of such a federation, and thus a federated catalog, when it actively or passively participates in such a federation. 
+   A federated system of metadata catalogs is characterized by the fact that they update each other according to certain rules and thus share metadata with each other. A catalog becomes a member of such a federation, and thus a federated catalog, when it actively or passively participates in such a federation. 
 - Active: push metadata to subscribing catalogs
 - Passive: respond to pull-requests from requesting catalogs.
 
 For example, GDI-DE actively harvests metadata from all metadata catalogs of the German states. INSPIRE harvests metadata from the national geoportals of the member states. All participating metadata catalogs are federated catalogs.
 
 **1.4 What are the advantages of a web feature service over a simple file download?**
-With file download, a preconfigured amount of data is offered for download as a single file or file archive. In this case, you usually download a lot of data that you don't need at all. A feature service allows direct selective access to data objects in a database. You can specify not only which data should be delivered, but also in which spatial reference system and in which format the data should be delivered. Feature services can be used to provide many views of one and the same dataset. With transactional feature services, data can also be written to the dataset.
+
+   With file download, a preconfigured amount of data is offered for download as a single file or file archive. In this case, you usually download a lot of data that you don't need at all. A feature service allows direct selective access to data objects in a database. You can specify not only which data should be delivered, but also in which spatial reference system and in which format the data should be delivered. Feature services can be used to provide many views at one and the same dataset. With transactional feature services, data can also be written to the dataset.
