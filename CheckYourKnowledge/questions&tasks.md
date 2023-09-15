@@ -26,5 +26,10 @@ Answers:
 
 **1.3 What makes a metadata catalog a federated metadata catalog?**
 
+A federated system of metadata catalogs is characterized by the fact that they update each other according to certain rules and thus share metadata with each other. A catalog becomes a member of such a federation, and thus a federated catalog, when it actively or passively participates in such a federation. 
+- Active: push metadata to subscribing catalogs
+- Passive: respond to pull-requests from requesting catalogs.
+
+For example, GDI-DE actively harvests metadata from all metadata catalogs of the German states. INSPIRE harvests metadata from the national geoportals of the member states. All participating metadata catalogs are federated catalogs.
 
 **1.4 What are the advantages of a web feature service over a simple file download?**
