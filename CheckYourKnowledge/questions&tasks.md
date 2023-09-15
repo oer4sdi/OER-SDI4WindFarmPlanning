@@ -33,3 +33,4 @@ A federated system of metadata catalogs is characterized by the fact that they u
 For example, GDI-DE actively harvests metadata from all metadata catalogs of the German states. INSPIRE harvests metadata from the national geoportals of the member states. All participating metadata catalogs are federated catalogs.
 
 **1.4 What are the advantages of a web feature service over a simple file download?**
+With file download, a preconfigured amount of data is offered for download as a single file or file archive. In this case, you usually download a lot of data that you don't need at all. A feature service allows direct selective access to data objects in a database. You can specify not only which data should be delivered, but also in which spatial reference system and in which format the data should be delivered. Feature services can be used to provide many views of one and the same dataset. With transactional feature services, data can also be written to the dataset.
