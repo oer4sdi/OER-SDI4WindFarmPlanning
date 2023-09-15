@@ -18,13 +18,13 @@
       - Artifacts: data, metadata, storage, computing and communication infrastructure, service instances, .. 
 
 
+**1.2 What is the difference between the geoportal and the metadata catalog of a Spatial Data Infrastructure?** 
+
+Answers:
+
+  The GDI-NI geoportal is the web site that provides comprehensive information on the GDI-NI. The GDI-NI metadata catalog is a back-end component that supports storage and retrieval of metadata. The catalog can be accessed a) by humans via the geoportal’s user interface and b) by machines via its API (e.g. OGC CSW or OGC API records).  
+
+**1.3 What makes a metadata catalog a federated metadata catalog?**
 
 
-
-What is the difference between the geoportal and the metadata catalog of a Spatial Data Infrastructure? 
-
-
-What makes a metadata catalog a federated metadata catalog?
-
-
-What are the advantages of a web feature service over a simple file download?
+**1.4 What are the advantages of a web feature service over a simple file download?**
