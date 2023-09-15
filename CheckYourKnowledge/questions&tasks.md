@@ -1,6 +1,6 @@
 # 1. Questions
 
-1. What bodies, processes and artifacts can you identify at the policy, organization, and implementation levels of the GDI NI? Try to give at least one example for each cell in the following table.
+**1.1 What bodies, processes and artifacts can you identify at the policy, organization, and implementation levels of the GDI NI? Try to give at least one example for each cell in the following table.**
 
    Answers:
    
