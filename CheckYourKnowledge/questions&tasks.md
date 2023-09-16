@@ -31,3 +31,16 @@ For example, GDI-DE actively harvests metadata from all metadata catalogs of the
 **1.4 What are the advantages of a web feature service over a simple file download?**
 
    With file download, a preconfigured amount of data is offered for download as a single file or file archive. In this case, you usually download a lot of data that you don't need at all. A feature service allows direct selective access to data objects in a database. You can specify not only which data should be delivered, but also in which spatial reference system and in which format the data should be delivered. Feature services can be used to provide many views at one and the same dataset. With transactional feature services, data can also be written to the dataset.
+
+# 2. Tasks
+
+**2.1 Identifying potential areas for wind farms in the municipality of Saerbeck, North-Rhine Westphalia, Germany**
+
+The municipality "Saerbeck" in the district of Steinfurt, North Rhine-Westphalia would like to determine which areas are available for the extended use of wind power in their municipal area. In a first step, existing nature reserves (NSG) and residential buildings are to be considered.
+Use the Geodata Infrastructure North Rhine-Westphalia (GDI-NRW) to acquire suitable data on municipal boundaries, existing wind turbines, nature reserves and building footprints for your data analysis. Calculate the exclusion areas of the nature reserves (100m buffer) and the distance areas to residential buildings (500m buffer) as for Lorup and subtract them from the municipality area.
+
+Sample solution: 
+The screenprint shows how the result could look like:
+   ![QGIS_Saerbeck_WFP](https://github.com/oer4sdi/OER-WindFarmExtension/assets/4353298/5713cea0-d124-4920-b0f8-0901e6140f58)
+
+
