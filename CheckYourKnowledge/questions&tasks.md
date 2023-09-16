@@ -45,6 +45,7 @@ The screenprint shows how the result could look like:
    ![QGIS_Saerbeck_WFP](https://github.com/oer4sdi/OER-WindFarmExtension/assets/4353298/5713cea0-d124-4920-b0f8-0901e6140f58)
 
 Tips:
+
 - All data can be found in the Geoportal NRW
 - Most of the data can be accessed via WFS. Make sure that you use the option "only request features overlapping the view extent" to avoid downloading the complete dataset again and again when working with the data. Extract the features from the WFS to a local dataset to avoid unnnecessary interactions with the WFS server over the Web.
 - Be aware that the INSPIRE WFS on Protected Sites provides you with all kinds of protected Sites, not only Nature Reserves. In this case it is better to use the dataset on Nature Reserves that is provided by LANUF as a shape file. This dataset and the download link is provided in the geoportal as well. 
