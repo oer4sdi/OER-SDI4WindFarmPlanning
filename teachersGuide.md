@@ -1,4 +1,6 @@
-# 1. Conceptual Aspects of the Learning Material
+# OER SDI4WindFarmPLanning - Teacher's Guide
+
+## 1. Conceptual Aspects of the Learning Material
 
 This tutorial was developed as a supplementary learning material for lectures/exercises in the subject area of spatial data infrastructures and can be used for blended learning. There are no dependencies on specific courses or course content, so it can be integrated as a learning unit in a wide variety of contexts and can also be used for independent learning.
 
@@ -9,9 +11,9 @@ The core of the practical part is the *data acquisition* section. The geoportals
 
 The second part serves to complete the use case and to show that the retrieved data is indeed interoperable and of a quality suitable to satisfy the information needs of the use case "wind farm planning". This part is also a small exercise in handling GIS tools (QGIS in this case). The workflows are described in sufficient detail so that even users with little GIS knowledge can understand them and transfer der knowledge to other contexts.
 
-# 2 Recommendations for the use of the learning material
+## 2 Recommendations for the use of the learning material
 
-## 2.1 PDF / H5P version
+### 2.1 PDF / H5P version
 
 The repository contains two different versions of the learning material: 
 - **PDF format:**
@@ -22,7 +24,7 @@ The H5P Package uses more advanced media types and interaction mechanisms to pre
 The H5P Package will be published on the ORCA-NRW (https://www.orca.nrw/) portal and can be imported from there into various learning management systems that are equipped with an H5P plugin (e.g. Moodle or ILIAS based learning management systems). You can also download the H5P material from this GitHub directory and import it into your learning management system. 
 If you want to view and edit the H5P package outside of learning management systems, you can use the free stand-alone software LUMI. Just download the software from the official website of the software provider (see https://app.lumi.education/ ). 
 
-## 2.2 Ways of using the learning material
+### 2.2 Ways of using the learning material
 
 Of course, students can simply read the material. However, in doing so, they will also overread a lot of things and miss essential insights that only come from hands-on experience with the topic. 
 
@@ -35,7 +37,7 @@ We have designed the learning material to support active engagement with the lea
    c) Ask students to complete the task described in Chapter 5. You may also want to modify this task or have them perform similar tasks (e.g., refine the analysis by adding more criteria and data).
 Sample solutions to the questions and tasks can be found in the "CheckYourKnowledge" subdirectory in this GitHub repository.
 
-## 2.3 Re-use, modification and distribution of the learning material
+### 2.3 Re-use, modification and distribution of the learning material
 
 We are happy if the learning material is useful for you! You can reuse and distribute the material as-is or in modified form, as it complies with the open license terms [link].  
 
