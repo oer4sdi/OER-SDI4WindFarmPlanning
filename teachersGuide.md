@@ -1,5 +1,6 @@
 # OER SDI4WindFarmPLanning - Teacher's Guide
 
+
 ## 1. Conceptual Aspects of the Learning Material
 
 This tutorial was developed as a supplementary learning material for lectures/exercises in the subject area of spatial data infrastructures and can be used for blended learning. There are no dependencies on specific courses or course content, so it can be integrated as a learning unit in a wide variety of contexts and can also be used for independent learning.
@@ -39,6 +40,6 @@ Sample solutions to the questions and tasks can be found in the "CheckYourKnowle
 
 ### 2.3 Re-use, modification and distribution of the learning material
 
-We are happy if the learning material is useful for you! You can reuse and distribute the material as-is or in modified form, as it complies with the open license terms [link].  
+We are happy if the learning material is useful for you! You can reuse and distribute the material as-is or in modified form, as it complies with the OER's open [license terms](https://github.com/oer4sdi/OER-WindFarmExtension/edit/main/LICENSE.md).  
 
 We also appreciate constructive feedback and contributions to the learning material: Please add notes on errors and suggestions for improvement as issues to the repository's GitHub issue list. Thanks a lot!
