@@ -1,11 +1,15 @@
 
-# How Spatial Information Infrastructures Support the Planning of Wind Farms? (Work-in-Progress)
+# How Spatial Information Infrastructures Support the Planning of Wind Farms 
+(Work-in-Progress)
+
+In this learning material, we use the real-world use case of planning the extension of a wind farm in the municipality of Lorup in Lower Saxony, Germany, to explore how geoinformation infrastructures support the availability and use of geospatial data needed in the wind farm planning process.
+
+You will learn,
+- why wind farm planning requires easy access to up-to-date, high-quality geospatial data and what kind of data is needed,
+- how SIIs facilitate the discoverability, accessibility, and usability of geospatial data that is needed for wind farm planning.
 
 
-An Open Educational Resource (OER) on an SDI use case from the consumer perspective: How can I find, retrieve, integrate and use geospatial data from different sources of an SDI to supporting the planning for the enlargement of a wind farm?
-
-
-## Table of Content
+## Content Structure
 
 1. Overview   
         
@@ -20,14 +24,9 @@ An Open Educational Resource (OER) on an SDI use case from the consumer perspect
 6. References        
 
 
-## Target Group and Prequiste
+## Target Group and Prequistes
 
-The OER module has been created with the aim of assisting participants who seek to explore and improve their skills in working with SDIs, particularly for the purpose of finding and downloading necessary data for windfarm repowering. The module is suitable for both students and professionals. Users are advised to have basic knowledge of GIS. The OER module provides guidance on these technologies and can be utilized to gain some initial practical experience with in working with SDIs and QGIS.
-
-## How to Use OER Module
-
-A Storyboard can be accessed and followed as a guide to implement the OER module tutorial.
-
+This tutorial is designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about geospatial data, QGIS and spatial data analysis. In this case you will need about 30-90 minutes to use this tutorial.
 
 
 ## Copyright and License Statement
