@@ -1,4 +1,4 @@
-Copyright (c) 2022 [University of Münster](https://www.uni-muenster.de/en/)
+Copyright (c) 2023 [University of Münster](https://www.uni-muenster.de/en/)
 
 You are free to use, alter and reproduce this open educational resource (OER) under the terms of the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Any source code contained or delivered with this OER can be used under the terms of the MIT license:
 
