@@ -1,6 +1,6 @@
 
 # How Spatial Information Infrastructures Support the Planning of Wind Farms 
-(Version 1.0 August 2024)
+(Version 1.0, August 2024)
 
 In this learning material, we use the real-world use case of planning the extension of a wind farm in the municipality of Lorup in Lower Saxony, Germany, to explore how geoinformation infrastructures support the availability and use of geospatial data needed in the wind farm planning process.
 
