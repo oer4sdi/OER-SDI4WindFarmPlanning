@@ -1,6 +1,6 @@
 
 # How Spatial Information Infrastructures Support the Planning of Wind Farms 
-(Workinfg Draft December 2023)
+(Version 0.9 July 2024)
 
 In this learning material, we use the real-world use case of planning the extension of a wind farm in the municipality of Lorup in Lower Saxony, Germany, to explore how geoinformation infrastructures support the availability and use of geospatial data needed in the wind farm planning process.
 
@@ -26,7 +26,7 @@ You will learn,
 
 ## Target Group and Prequistes
 
-This tutorial is designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about geospatial data, QGIS and spatial data analysis. In this case you will need about 30-90 minutes to use this tutorial.
+This tutorial is designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about geospatial data, QGIS and spatial data analysis. You will need about 30-90 minutes to use this tutorial.
 
 
 ## Copyright and License Statement
