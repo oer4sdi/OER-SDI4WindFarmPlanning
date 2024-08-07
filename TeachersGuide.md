@@ -22,7 +22,8 @@ The repository contains two different versions of the learning material:
 
 - **H5P Package:**
 The H5P Package uses more advanced media types and interaction mechanisms to present the learning material.  
-The H5P Package will be published on the ORCA-NRW (https://www.orca.nrw/) portal and can be imported from there into various learning management systems that are equipped with an H5P plugin (e.g. Moodle or ILIAS based learning management systems). You can also download the H5P material from this GitHub directory and import it into your learning management system. 
+
+Both formats will be published on the ORCA-NRW (https://www.orca.nrw/) portal and can be imported from there into various learning management systems that are equipped with PDF and H5P plugins (e.g. Moodle or ILIAS based learning management systems). You can also download the H5P material from this GitHub directory and import it into your learning management system. 
 If you want to view and edit the H5P package outside of learning management systems, you can use the free stand-alone software LUMI. Just download the software from the official website of the software provider (see https://app.lumi.education/ ). 
 
 ### 2.2 Ways of using the learning material
