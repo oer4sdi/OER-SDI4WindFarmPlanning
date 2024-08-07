@@ -1,19 +1,26 @@
 # 1. Questions
 
-**1.1 What bodies, processes and artifacts can you identify at the policy, organization, and implementation levels of the GDI NI? Try to give at least one example for each aspect.**
-   
-   - **Policy level**
-      - Bodies: state cabinet
-      - Processes: legal acts, tasking the steering committee 
-      - Artifacts: laws, decisions
-   - **Organizational**
-      - Bodies: steering committee, coordination office (organized at LGLN), working groups, and all contributing organizations
-      - Processes: concept development, project work, communication & coordination
-      - Artifacts: reports, concepts, application profiles of standards, guidance documents, ..
-   - **Implementation**
-      - Bodies: information broker such as the LGLN, content and service providers such asl 
-      - Processes: producing and providing datasets and services, publishing datasets and services via metadata, managing the metadata catalog, providing the GDI-NI geoportal (web site)
-      - Artifacts: data, metadata, storage, computing and communication infrastructure, service instances, .. 
+**1.1 What bodies, processes and artifacts can you identify at the policy, organization, and implementation levels of the GDI NI?**
+
+|  | Bodies/Institutions | Processes | Artifacts |
+|----------|----------|----------|----------|
+| Policy | A1 | B1 | C1 |
+| Organizational | A2 | B2 | C2 |
+| Implementation | A3 | B3 | C3 |
+
+**Try to assign the following institutions, processes and artifacts to the correct positions in the table:**
+
+- (A1)  State Parliament of Lower Saxony 
+- (B2)  Technical coordination of GDI-NI 
+- (C3)  WFS NI ALKIS (simplified) /n
+- (A2)  GDI-NI coordination office at the State Office for Geoinformation and
+       Surveying of Lower Saxony (LGLN)
+- (B3)  Searching and accessing spatial datasets and services
+- (C2)  Guidance document on creating high-quality metadata
+- (C1)  Lower Saxony Spatial Data Infrastructure Act
+- (A3)  The Revento GmbH, consuming high-quality spatial data 
+       in the context of wind farm planning
+- (B1)  Transposing INSPIRE into state law in Lower Saxony
 
 
 **1.2 What is the difference between the geoportal and the metadata catalog of a Spatial Data Infrastructure?** 
