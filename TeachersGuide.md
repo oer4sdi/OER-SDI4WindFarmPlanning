@@ -1,6 +1,5 @@
 # OER SDI4WindFarmPLanning - Teacher's Guide
 
-
 ## 1. Conceptual Aspects of the Learning Material
 
 This tutorial was developed as a supplementary learning material for lectures/exercises in the subject area of spatial data infrastructures and can be used for blended learning. There are no dependencies on specific courses or course content, so it can be integrated as a learning unit in a wide variety of contexts and can also be used for independent learning.
@@ -14,16 +13,12 @@ The second part serves to complete the use case and to show that the retrieved d
 
 ## 2 Recommendations for the use of the learning material
 
-### 2.1 PDF / H5P version
+### 2.1 PDF version
 
-The repository contains two different versions of the learning material: 
-- **PDF format:**
-   The PDF document can be used as a digital script or as a printout. You can integrate it - like any other digital material - into your learning management system. The advantage lies in the simplicity of use. However, depending on the learning preferences of the users, the multimedia H5P form can be more attractive and even more effective.
+The learning material consists of a PDF file that you can download from the /docs subfolder. As supporting materials, you will find the data of the exercise in the /data subfolder and sample solutions for the questions and tasks in the /sampleSolutions folder.
 
-- **H5P Package:**
-The H5P Package uses more advanced media types and interaction mechanisms to present the learning material.  
-The H5P Package will be published on the ORCA-NRW (https://www.orca.nrw/) portal and can be imported from there into various learning management systems that are equipped with an H5P plugin (e.g. Moodle or ILIAS based learning management systems). You can also download the H5P material from this GitHub directory and import it into your learning management system. 
-If you want to view and edit the H5P package outside of learning management systems, you can use the free stand-alone software LUMI. Just download the software from the official website of the software provider (see https://app.lumi.education/ ). 
+The PDF document can be used as a digital script or as a printout. You can integrate it - like any other digital material - into your learning management system. 
+
 
 ### 2.2 Ways of using the learning material
 
@@ -36,7 +31,7 @@ We have designed the learning material to support active engagement with the lea
    b) Ask the students to answer the questions in chapter 5. Discuss these and similar questions with the students.
 
    c) Ask students to complete the task described in Chapter 5. You may also want to modify this task or have them perform similar tasks (e.g., refine the analysis by adding more criteria and data).
-Sample solutions to the questions and tasks can be found in the "CheckYourKnowledge" subdirectory in this GitHub repository.
+Sample solutions to the questions and tasks can be found in the "sampleSolutions" subdirectory in this GitHub repository.
 
 ### 2.3 Re-use, modification and distribution of the learning material
 
