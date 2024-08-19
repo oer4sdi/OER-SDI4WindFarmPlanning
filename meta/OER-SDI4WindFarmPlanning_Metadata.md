@@ -1,49 +1,27 @@
-# MetaData Template 
-
-How to use Metadata Template for your learning material.
-
-## Mandatory Metadata Elements
-
-The essential list of Metadata Elements that must be addressed in OER4SDI are as follows:
-
-| MD Element | Description | 
-| ---------- | ----------- |
-| Title | Title of the OER material |
-| Author | Creator(s) of the material which includes Author's Name, Academic Degree, ORCID, Organisation |
-| Abstract | Abstract or summary of the material |
-| Subject | General subject of the OER Material |
-| Licenses | One or more open licenses, which define the usage terms for the OER material |
-| Language | Language of the OER material |
-| Type of Material | The predominant type or kind characterizing the OER material |
-| Keywords | Keywords that describe item. May include Code Table suggestions and your own keywords |
-| Support Program | Funding Program that supports the creation of OER Content |
-| Target Group | The intended group of audiance for the module |
-
-The description as well as the constraints of each element are given in: https://uni-muenster.sciebo.de/s/lAHGyfstrpQ06Y0
-
-To reuse the template to your OER content, go thorough the link above :)
-
-## Example Format
+# General MetaData 
 
 | MD Element | Description |
 | ---------- | ----------- |
-| Title | OER on analzing IoT air quality data streams using Kafka and Jupyter Notebooks |
-| Author | see below |
-| Abstract | In this module, students from the subject of geo science are able to prove their skills in developing real-time streaming applications.  |
-| Subject | `Geoinformatics` `Computer Science` |
-| Licenses | `MIT - codes` `CC -BY- SA 4.0`  |
-| Language | `English` |
-| Type of Material | `Lesson` `Software Applications` `TextBook` |
-| Keywords | `Docker` `Kafka` `Juypter Notebooks` `Stream Processing`  |
-| Support Program | `OER Content.NRW` |
+| Title | OER-SDI4WindFarmPlannning - How Spatial Information Infrastructures Support the Planning of Wind Farms |
+| Abstract | In this learning material we investigate how geoinformation infrastructures support the availability and use of spatial data for the planning of wind farms. We refer to the real use case of planning the expansion of a wind farm in the municipality of Lorup in Lower Saxony, Germany. |
+| Subject | Geoinformatics, Computer Science |
+| Licenses | `MIT - codes`, `CC -BY- SA 4.0`  |
+| Language | English |
+| Type of Material | Lesson |
+| Keywords | SDI, GDI, Spatial Data Infrastructure, Geodateninfrastruktur, Windfarm Planning, Windparkplanung |
+| Support Program | OER Content.NRW |
 | Target Group | `Graduate students` `Technical/Career` |
 
 
-**Author**
-| MD Element | Description |
-| ---------- | ----------- |
-| ORCID | `0000-0002-2051-1006` |
-| FirstName | `Mary` |
-| LastName | `Jane` |
-| AcademicDegree | `Dr.` |
-| Organisation | `WWU`  |
+**Authors**
+| FirstName | LastName | ORCID |AcademicDegree |Organisation |
+| ---------- | ----------- |----------- |----------- |----------- |
+|Nouran |Armanazi |||University of Muenster  |
+|Albert |Remke |0000-0002-9814-5034|Prof.Dr.|University of Muenster|
+
+
+**Contributors**
+| FirstName | LastName | ORCID |AcademicDegree |Organisation |
+| ---------- | ----------- |----------- |----------- |----------- |
+|Stefan |Luetkemeyer |||Revento GmbH |
+
