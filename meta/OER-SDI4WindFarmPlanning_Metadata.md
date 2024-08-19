@@ -8,6 +8,7 @@
 | Licenses | `MIT - codes`, `CC -BY- SA 4.0`  |
 | Language | English |
 | Type of Material | Lesson |
+| Format | PDF |
 | Keywords | SDI, GDI, Spatial Data Infrastructure, Geodateninfrastruktur, Windfarm Planning, Windparkplanung |
 | Support Program | OER Content.NRW |
 | Target Group | `Graduate students` `Technical/Career` |
