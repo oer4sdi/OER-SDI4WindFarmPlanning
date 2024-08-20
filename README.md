@@ -8,7 +8,7 @@ You will learn,
 - why wind farm planning requires easy access to up-to-date, high-quality geospatial data and what kind of data is needed,
 - how SIIs facilitate the discoverability, accessibility, and usability of geospatial data that is needed for wind farm planning.
 
-The learning material consists of a PDF file that you can download from the /docs subfolder. As supporting materials, you will find the data of the exercise in the  [/data](/data) subfolder and sample solutions for the questions and tasks in the [/sampleSolutions](/sampleSolutions) folder.
+The learning material consists of a PDF file that you can download from the [/docs](/docs) subfolder. As supporting materials, you will find the data of the exercise in the  [/data](/data) subfolder and sample solutions for the questions and tasks in the [/sampleSolutions](/sampleSolutions) folder.
 
 ## Content Structure
 
