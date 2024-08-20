@@ -31,7 +31,7 @@ This tutorial is designed for students and professionals who want to improve the
 
 ## Copyright and License Statement
 
-You are free to use, alter and share the tutorial under the terms of the CC-BY-SA 4.0 license, unless explicitly stated otherwise for specific parts of the content. 
+You are free to use, alter and share the tutorial under the terms of the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license, unless explicitly stated otherwise for specific parts of the content. 
 
 The authors can be mentioned as follows: OER_WindFarmPlanning (2024), CC-BY-SA 4.0, Nouran Armanazi, Albert Remke, www.uni-muenster.de
 
