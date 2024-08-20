@@ -8,7 +8,7 @@ You will learn,
 - why wind farm planning requires easy access to up-to-date, high-quality geospatial data and what kind of data is needed,
 - how SIIs facilitate the discoverability, accessibility, and usability of geospatial data that is needed for wind farm planning.
 
-The learning material consists of a PDF file that you can download from the /docs subfolder. As supporting materials, you will find the data of the exercise in the /data subfolder and sample solutions for the questions and tasks in the /sampleSolutions folder.
+The learning material consists of a PDF file that you can download from the /docs subfolder. As supporting materials, you will find the data of the exercise in the  [/data](/data) subfolder and sample solutions for the questions and tasks in the [/sampleSolutions](/sampleSolutions) folder.
 
 ## Content Structure
 
@@ -31,11 +31,13 @@ This tutorial is designed for students and professionals who want to improve the
 
 ## Copyright and License Statement
 
-You are free to use, alter and share the tutorial under the terms of the CC-BY-SA 4.0 license, unless explicitly stated otherwise for specific parts of the content. 
+You are free to use, alter and share the tutorial under the terms of the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license, unless explicitly stated otherwise for specific parts of the content. 
 
 The authors can be mentioned as follows: OER_WindFarmPlanning (2024), CC-BY-SA 4.0, Nouran Armanazi, Albert Remke, www.uni-muenster.de
 
-Any code provided with the tutorial can be used under the terms of the MIT license. Please see the full license terms: https://github.com/oer4sdi/OER-WindFarmExtension/edit/main/LICENSE.md)
+All logos used are generally excluded.
+
+Any code provided with the tutorial can be used under the terms of the MIT license. Please see the [full license terms](/LICENSE.md).
 
 ## Authors and Funding
 
