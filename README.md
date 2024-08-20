@@ -37,7 +37,7 @@ The authors can be mentioned as follows: OER_WindFarmPlanning (2024), CC-BY-SA 4
 
 All logos used are generally excluded.
 
-Any code provided with the tutorial can be used under the terms of the MIT license. Please see the full license terms: https://github.com/oer4sdi/OER-WindFarmExtension/edit/main/LICENSE.md)
+Any code provided with the tutorial can be used under the terms of the MIT license. Please see the [full license terms](/LICENSE.md).
 
 ## Authors and Funding
 
