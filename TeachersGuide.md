@@ -35,6 +35,6 @@ Sample solutions to the questions and tasks can be found in the "sampleSolutions
 
 ### 2.3 Re-use, modification and distribution of the learning material
 
-We are happy if the learning material is useful for you! You can reuse and distribute the material as-is or in modified form, as it complies with the OER's open [license terms](https://github.com/oer4sdi/OER-WindFarmExtension/edit/main/LICENSE.md).  
+We are happy if the learning material is useful for you! You can reuse and distribute the material as-is or in modified form, as it complies with the OER's open [license terms](/LICENSE.md).  
 
 We also appreciate constructive feedback and contributions to the learning material: Please add notes on errors and suggestions for improvement as issues to the repository's GitHub issue list. Thanks a lot!
